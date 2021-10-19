@@ -27,7 +27,6 @@
   <img align="center" alt="Thialyson-CSS" color height="30" width="80" src="https://www.seekpng.com/png/full/70-704617_white-on-transparent-kafka-logo-svg.png">
   
   
-  
 </div>
   
   
